@@ -1,0 +1,37 @@
+
+#result
+{
+    margin-top: 10px;
+}
+#infos
+{
+    margin-top: 20px;
+
+}
+.imagemLogo
+{
+    margin-top: 5px;
+    height: 50px;
+    width: 50px;
+    margin-left: 50px;
+    border: solid black 1px;
+}
+
+.nav-item
+{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.input-group
+{
+    box-shadow: 5px 5px 5px rgba(114, 114, 114, 0.979);
+}
+.nav
+{
+    background: black;
+}
+.bod
+{
+    background:rgb(199, 197, 197);
+}
